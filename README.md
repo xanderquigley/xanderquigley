@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xanderquigley
-- 👀 I’m interested in data analytics, Python, learning.
+- 👀 I’m interested in Data Analytics (Visualizations!), and Learning all sorts!
 - 🌱 I’m currently learning Data Analytics.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me xanderquigley@gmail.com
