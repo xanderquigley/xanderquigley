@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xanderquigley
 - 👀 I’m interested in Data Analytics (Visualizations!), and Learning all sorts!
-- 🌱 I’m currently learning Data Analytics.
+- 🌱 I’m currently learning Data Analytics. Python, R, MS SQL Server, Power BI
 - 📫 How to reach me xanderquigley@gmail.com
 
 <!---
